@@ -1,5 +1,5 @@
 import React from 'react';
-import './Styles.css';  // Add this if you want to use specific CSS for this component
+import './Skills.css';  // Add this if you want to use specific CSS for this component
 
 const Skills = () => {
   return (

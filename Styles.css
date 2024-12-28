@@ -8,8 +8,9 @@
   /*Purple 260 - Red 355 - Blue 224 - Pink 340*/
   /* HSL color mode */
   --hue-color: 224;
-  --first-color: hsl(var(--hue-color), 89%, 60%);
+  --first-color: hsl(var(--hue-color), 50%, 60%);
   --second-color: hsl(var(--hue-color), 56%, 12%);
+  --third-color: hsl(var(--hue-color), 90%, 90%);
   /*===== Fuente y tipografia =====*/
   --body-font: "Poppins", sans-serif;
   --big-font-size: 2rem;
@@ -110,8 +111,8 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #fff;
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+  background-color: #ffffff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
   border-bottom: .5px solid #9AA6B2;
   padding-bottom: 20px;
 }
@@ -217,7 +218,7 @@ img {
   width: 260px;
 }
 .home__blob {
-  fill: var(--first-color);
+  fill: var(--third-color);
 }
 .home__blob-img {
   width: 360px;

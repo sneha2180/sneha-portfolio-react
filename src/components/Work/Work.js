@@ -1,5 +1,5 @@
 import React from 'react';
-import './Styles.css'; // Add this file for custom styles
+import './Work.css'; // Add this file for custom styles
 
 const Work = () => {
   // List of work images and their links

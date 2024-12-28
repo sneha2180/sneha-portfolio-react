@@ -1,5 +1,5 @@
 import React from 'react';
-import './Styles.css'; // Add this if you want to use specific CSS for this component
+import './Home.css'; // Add this if you want to use specific CSS for this component
 import { FaLinkedin, FaGithub } from 'react-icons/fa'; // Optional: for social icons if you prefer to use React icons
 
 const Home = () => {
@@ -30,19 +30,19 @@ const Home = () => {
           <h1 className="home__title">
             Navigating <span className="home__title-color"><br />Collaborations</span>
           </h1>
-          <h3>Exploring business development strategies in the IT industry.</h3>
+          <h3>Exploring business development strategies in SaaS.</h3>
           <p>
-            With a solid foundation in B2B sales, engagement automation, and account management, I bring a goal-oriented
-            approach to exploring innovative technological solutions for marketing and business challenges. Proficient in
-            leveraging tools like LinkedIn Sales Navigator, HubSpot, Salesforce, and AI, I excel in driving lead generation,
-            optimizing campaigns, and delivering impactful results.
+          With a solid foundation in B2B sales, engagement automation, and account management, 
+          a goal-oriented approach is applied to exploring innovative technological solutions for 
+          marketing and business challenges. Leveraging tools such as LinkedIn Sales Navigator, HubSpot, Salesforce, 
+          and AI enables driving lead generation, optimizing campaigns, and delivering impactful results.
           </p>
           <br />
           <a
             href="https://calendly.com/snehacshaji202/collaboration_discussion"
             className="button"
           >
-            Contact
+            Schedule a Call
           </a>
         </div>
 
