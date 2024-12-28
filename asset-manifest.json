@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sneha-portfolio-react/static/css/main.cba912cf.css",
+    "main.js": "/sneha-portfolio-react/static/js/main.b4def09c.js",
+    "index.html": "/sneha-portfolio-react/index.html",
+    "main.cba912cf.css.map": "/sneha-portfolio-react/static/css/main.cba912cf.css.map",
+    "main.b4def09c.js.map": "/sneha-portfolio-react/static/js/main.b4def09c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba912cf.css",
+    "static/js/main.b4def09c.js"
+  ]
+}
